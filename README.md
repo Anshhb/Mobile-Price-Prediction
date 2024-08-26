@@ -17,11 +17,3 @@ Developed and optimized a mobile price prediction model using various machine le
 1. Clone the repository: `git clone https://github.com/yourusername/mobile-price-prediction.git`
 2. Install required libraries: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook Mobile_Price_Prediction.ipynb`
-
-### Contribution
-
-Feel free to contribute by submitting issues or pull requests.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
